@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ur",
+				"urlpatterns"
+			],
+			[
+				"cle",
+				"cleaned_data"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"pas",
+				"password2"
+			],
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"T",
+				"TextInput"
+			],
+			[
+				"conta",
+				"contact_form"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"compa",
+				"comp_name"
+			],
+			[
+				"company",
+				"company_name"
+			],
+			[
+				"pro",
+				"profile_p"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"adr",
+				"address"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/VASH/Desktop/ecommerce",
+		"/C/Users/VASH/Desktop/ecommerce/include",
+		"/C/Users/VASH/Desktop/ecommerce/lib",
+		"/C/Users/VASH/Desktop/ecommerce/src",
+		"/C/Users/VASH/Desktop/ecommerce/src/mysite",
+		"/C/Users/VASH/Desktop/ecommerce/src/products",
+		"/C/Users/VASH/Desktop/ecommerce/src/products/templates",
+		"/C/Users/VASH/Desktop/ecommerce/src/products/templates/products"
+	],
+	"file_history":
+	[
+		"/C/Users/VASH/Desktop/ecommerce/src/mysite/urls.py",
+		"/C/Users/VASH/Desktop/ecommerce/src/mysite/settings.py",
+		"/C/Users/VASH/Desktop/ecommerce/src/products/admin.py",
+		"/C/Users/VASH/Desktop/ecommerce/src/products/views.py",
+		"/C/Users/VASH/Desktop/ecommerce/src/products/models.py",
+		"/C/Users/VASH/Desktop/ecommerce/src/products/templates/products/list.html",
+		"/C/Users/VASH/Desktop/ecommerce/src/templates/auth/register.html",
+		"/C/Users/VASH/Desktop/ecommerce/src/templates/home_page.html",
+		"/C/Users/VASH/Desktop/ecommerce/src/mysite/views.py",
+		"/C/Users/VASH/Desktop/ecommerce/src/templates/contact/view.html",
+		"/C/Users/VASH/Desktop/ecommerce/src/mysite/forms.py",
+		"/C/Users/VASH/Desktop/ecommerce/src/templates/auth/login.html",
+		"/C/Users/VASH/Desktop/ecommerce/src/static_my_proj/css/main.css",
+		"/C/xampp/htdocs/ecomm/admin_comp/index.php",
+		"/C/xampp/htdocs/ecomm/admin_comp/css/style.css",
+		"/C/xampp/htdocs/ecomm/admin_comp/css/style.js",
+		"/C/xampp/htdocs/ecomm/signup2.php",
+		"/C/xampp/htdocs/ecomm/admin_comp/functions.php",
+		"/C/xampp/htdocs/ecomm/css/style.css",
+		"/C/xampp/htdocs/ecomm/login2.php",
+		"/C/xampp/htdocs/ecomm/public/admin_comp/index.php",
+		"/C/xampp/htdocs/ecomm/public/admin_comp/functions.php",
+		"/C/xampp/htdocs/ecommerce/admin_area/login.php",
+		"/C/Users/VASH/Desktop/kenedy/about.html",
+		"/C/Users/VASH/Desktop/kenedy/contact.html",
+		"/C/Users/VASH/Desktop/kenedy/index.html",
+		"/C/Users/VASH/Desktop/GreenFair Free Website Template - Free-CSS.com/greenfair-html5-onepage-template/index.html",
+		"/C/Users/VASH/Desktop/GreenFair Free Website Template - Free-CSS.com/greenfair-html5-onepage-template/contact.html",
+		"/C/Users/VASH/Desktop/GreenFair Free Website Template - Free-CSS.com/greenfair-html5-onepage-template/gallery.html",
+		"/C/Users/VASH/Desktop/GreenFair Free Website Template - Free-CSS.com/greenfair-html5-onepage-template/aboutus.html",
+		"/C/Users/VASH/Desktop/GreenFair Free Website Template - Free-CSS.com/greenfair-html5-onepage-template/css/style.css",
+		"/C/Users/VASH/Desktop/GreenFair Free Website Template - Free-CSS.com/greenfair-html5-onepage-template/js/gallery.js",
+		"/C/Users/VASH/Desktop/GreenFair Free Website Template - Free-CSS.com/greenfair-html5-onepage-template/gallery"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecommerce.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
